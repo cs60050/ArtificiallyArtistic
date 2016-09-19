@@ -1,30 +1,23 @@
 # ArtificiallyArtistic
 This is the repository for our machine learning term project on Computer Generated Art. We shall be working on the Artistic Rendering of Images. 
 
-The Group Members Are:
+##Group Members :
 
-Ashrujit Ghoshal(14CS10060)
+Ashrujit Ghoshal(14CS10060) <br />
+Sayan Ghosh(14CS10061) <br />
+Arundhati Banerjee(14CS30043) <br />
+Sayan Mandal(14CS30032) <br />
+Mousam Roy(14CS30019) <br />
+Sourav Pal(14CS10062) <br />
+Sohan Patro(14CS30044) <br />
+Projjal Chanda(14CS10057) <br />
+Pradeep Dogga(14CS10013) <br />
+Aniket Suri(14CS10004) <br />
 
-Sayan Ghosh(14CS10061)
+<br />
 
-Arundhati Banerjee(14CS30043)
-
-Sayan Mandal(14CS30032)
-
-Mousam Roy(14CS30019)
-
-Sourav Pal(14CS10062)
-
-Sohan Patro(14CS30044)
-
-Projjal Chanda(14CS10057)
-
-Pradeep Dogga(14CS10013)
-
-Aniket Suri(14CS10004)
-
-
-The folder Artistic Rendering of 2D images using CNN  contains an implementation of the paper A Neural Algorithm of Artistic Style: By:Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.
+## Contents of this repository :
+The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper A Neural Algorithm of Artistic Style: By:Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.
 A folder containing test cases and outputs is inclued in it.
 
 
