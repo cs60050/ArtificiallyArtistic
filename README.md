@@ -2,15 +2,25 @@
 This is the repository for our machine learning term project on Computer Generated Art. We shall be working on the Artistic Rendering of Images. 
 
 The Group Members Are:
+
 Ashrujit Ghoshal(14CS10060)
+
 Sayan Ghosh(14CS10061)
+
 Arundhati Banerjee(14CS30043)
+
 Sayan Mandal(14CS30032)
+
 Mousam Roy(14CS30019)
+
 Sourav Pal(14CS10062)
+
 Sohan Patro(14CS30044)
+
 Projjal Chanda(14CS10057)
+
 Pradeep Dogga(14CS10013)
+
 Aniket Suri(14CS10004)
 
 
