@@ -17,8 +17,15 @@ Aniket Suri(14CS10004) <br />
 <br />
 
 ## Contents of this repository :
-The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper A Neural Algorithm of Artistic Style: By:Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.
-A folder containing test cases and outputs is inclued in it.
+The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper *_A Neural Algorithm of Artistic Style_* by Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.<br />
+A folder containing test cases and outputs is inclued inside it.
+
+
+## Tasks :
+
+## Explanation of the approaches :
+
+### Using CNN :
 
 
 ## Running
