@@ -1,7 +1,7 @@
 # ArtificiallyArtistic
 This is the repository for our machine learning term project on Computer Generated Art. We shall be working on the Artistic Rendering of Images. 
 
-##Group Members :
+##Group Members
 
 Ashrujit Ghoshal(14CS10060) <br />
 Sayan Ghosh(14CS10061) <br />
@@ -16,20 +16,22 @@ Aniket Suri(14CS10004) <br />
 
 <br />
 
-## Contents of this repository :
+## Contents of this repository
 The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper *_A Neural Algorithm of Artistic Style_* by Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.<br />
 A folder containing test cases and outputs is included inside it.
 
 
-## Tasks :
+## Tasks
 
-## Explanation of the approaches :
-
+## Explanation of the approaches
+### Naive approach :
+Using bilinear model to separate the style and content of image and then applying the style of one image on the the content of another image.
 ### Using CNN :
+We have used the VGG-19 model to achieve separation of style and content of image
 
+## Running 
 
-## Running
-
+### For the CNN method
 `python neural_style.py --content <content file> --styles <style file> --output <output file>`
 
 (run `python neural_style.py --help` to see a list of all options)
