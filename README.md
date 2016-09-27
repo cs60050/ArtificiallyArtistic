@@ -18,14 +18,17 @@ Aniket Suri(14CS10004) <br />
 
 ## Contents of this repository
 The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper *_A Neural Algorithm of Artistic Style_* by Leon A. Gatys,Alexander S. Ecker,Matthias Bethge.<br />
-A folder containing test cases and outputs is included inside it.
+A folder containing test cases and outputs is included inside it. <br />
+
+The folder **_NaiveImplementation_** is an attempt to implement the paper *_Separating Style and Content_* by Joshua B. Tenenbaum and William T. Freeman. <br />
+The necessary training data and test set is included alongwith. <br />
 
 
 ## Tasks
 
 ## Explanation of the approaches
 ### Naive approach :
-Using bilinear model to separate the style and content of image and then applying the style of one image on the the content of another image.
+Using bilinear model to separate the style and content of image and then applying the style of one image on the the content of another image (by the principle of extrapolation).
 ### Using CNN :
 We have used the VGG-19 model to achieve separation of style and content of image
 
