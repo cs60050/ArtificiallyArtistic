@@ -5,7 +5,7 @@ from PIL import Image
 from scipy.misc import imread
 from scipy.misc import imshow
 from scipy.misc import toimage
-
+from scipy import sparse 
 def pca(X):
   # Principal Component Analysis
   # input: X, matrix with training data as flattened arrays in rows
