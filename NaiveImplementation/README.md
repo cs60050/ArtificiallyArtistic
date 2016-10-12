@@ -2,4 +2,4 @@ This is a model trained with images of a particular artistic style - in this cas
 
 It applies the style on any new content. 
 
-(TODO): Improve the model so that it can also perform extrapolation to new styles.
+In this implementation, the bilinear model is being trained to apply a certain artistic style to new content. Hence for different artistic styles, it must be trained separately.
