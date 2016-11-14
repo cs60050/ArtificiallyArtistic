@@ -56,11 +56,10 @@ python BilinearClassifier.py
 (run `python neural_style.py --help` to see a list of all options)
 
 ### For neural doodle
-python3 doodle.py --style <style file> --content <content file> 
-                  --output <output file>--device=gpu0 --phases=4 --iterations=80
+`python3 doodle.py --style <style file> --content <content file> --output <output file> --device=gpu0 --phases=4 --iterations=80`
 
 ### For videos
-th artistic_video.lua --style_image<style file> --content_pattern<content frames>
+`th artistic_video.lua --style_image<style file> --content_pattern<content frames>`
 
 
 
