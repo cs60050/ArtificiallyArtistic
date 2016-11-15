@@ -3,16 +3,16 @@ This is the repository for our machine learning term project on Computer Generat
 
 ##Group Members
 
-Ashrujit Ghoshal(14CS10060) <br />
-Sayan Ghosh(14CS10061) <br />
-Arundhati Banerjee(14CS30043) <br />
-Sayan Mandal(14CS30032) <br />
-Mousam Roy(14CS30019) <br />
-Sourav Pal(14CS10062) <br />
-Sohan Patro(14CS30044) <br />
-Projjal Chanda(14CS10057) <br />
-Pradeep Dogga(14CS10013) <br />
-Aniket Suri(14CS10004) <br />
+* Ashrujit Ghoshal(14CS10060) <br />
+* Sayan Ghosh(14CS10061) <br />
+* Arundhati Banerjee(14CS30043) <br />
+* Sayan Mandal(14CS30032) <br />
+* Mousam Roy(14CS30019) <br />
+* Sourav Pal(14CS10062) <br />
+* Sohan Patro(14CS30044) <br />
+* Projjal Chanda(14CS10057) <br />
+* Pradeep Dogga(14CS10013) <br />
+* Aniket Suri(14CS10004) <br />
 
 <br />
 
