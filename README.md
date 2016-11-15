@@ -11,8 +11,8 @@ This is the repository for our Machine Learning Term project on Computer Generat
 * [Sourav Pal](https://github.com/sourav-roni)          (14CS10062) <br />
 * [Sohan Patro](https://github.com/Sohanpatro)         (14CS30044) <br />
 * [Projjal Chanda](https://github.com/projjal)      (14CS10057) <br />
-* [Pradeep Dogga]       (14CS10013) <br />
-* [Aniket Suri]         (14CS10004) <br />
+* Pradeep Dogga       (14CS10013) <br />
+* Aniket Suri         (14CS10004) <br />
 
 <br />
 
