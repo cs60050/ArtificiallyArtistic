@@ -1,5 +1,7 @@
+## Contents
 This folder contains the code, input and outputs for neural doodle.
 
+## Description of the procedure
 It contains an implementation of the paper *_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork_* by Alex J. Champandard
 
 This uses the standard VGG-19 model as used in the earlier instance of artistic rendering of styles from one image to the content of another image.
