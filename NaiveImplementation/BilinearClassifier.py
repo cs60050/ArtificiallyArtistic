@@ -46,8 +46,8 @@ U,V,S,immean = pca(imgarr)
 immean = immean.reshape(256,256,3)
 mode = V[0].reshape(256,256,3)
 
-#toimage(immean).show()
-#toimage(mode).show()
+toimage(immean).show()
+toimage(mode).show()
 
 A = U[:15]
 b = dot(S, V)
@@ -55,21 +55,6 @@ b = dot(S, V)
 content = imread("Test/content.jpg")
 toimage(content).show()
 toimage(immean*content).show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+toimage(immean).save("Test/mean.jpg")
+toimage(mode).save("Test/mode.jpg")
+toimage(immean*content).save("Test/output.jpg")
