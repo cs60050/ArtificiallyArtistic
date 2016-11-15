@@ -1,5 +1,5 @@
 # ArtificiallyArtistic
-This is the repository for our machine learning term project on Computer Generated Art. We shall be working on the Artistic Rendering of Images. 
+This is the repository for our Machine Learning Term project on Computer Generated Art. We have worked on the Artistic Rendering of Images. 
 
 ##Group Members
 
