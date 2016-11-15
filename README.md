@@ -8,7 +8,7 @@ This is the repository for our Machine Learning Term project on Computer Generat
 * Arundhati Banerjee  (14CS30043) <br />
 * Sayan Mandal        (14CS30032) <br />
 * Mousam Roy          (14CS30019) <br />
-* Sourav Pal(https://github.com/sourav-roni)          (14CS10062) <br />
+* [Sourav Pal](https://github.com/sourav-roni)          (14CS10062) <br />
 * Sohan Patro         (14CS30044) <br />
 * Projjal Chanda      (14CS10057) <br />
 * Pradeep Dogga       (14CS10013) <br />
