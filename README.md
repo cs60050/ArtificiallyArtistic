@@ -17,16 +17,16 @@ This is the repository for our Machine Learning Term project on Computer Generat
 <br />
 
 ## Contents of this repository
-The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper *[_A Neural Algorithm of Artistic Style_* by Leon A. Gatys,Alexander S. Ecker,Matthias Bethge](https://arxiv.org/pdf/1508.06576v2.pdf?).<br />
+The folder **_Artistic Rendering of 2D images using CNN_**  contains an implementation of the paper [*_A Neural Algorithm of Artistic Style_* by Leon A. Gatys,Alexander S. Ecker,Matthias Bethge](https://arxiv.org/pdf/1508.06576v2.pdf?).<br />
 A folder containing test cases and outputs is included inside it. <br />
 
-The folder **_NaiveImplementation_** is an attempt to implement the paper *[_Separating Style and Content_* by Joshua B. Tenenbaum and William T. Freeman](http://web.mit.edu/cocosci/Papers/NC120601.pdf). <br />
+The folder **_NaiveImplementation_** is an attempt to implement the paper [*_Separating Style and Content_* by Joshua B. Tenenbaum and William T. Freeman](http://web.mit.edu/cocosci/Papers/NC120601.pdf). <br />
 The necessary training data and test set is included alongwith. <br />
 
-The folder **_Doodles_**  contains an implementation of the paper *[_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork_* by Alex J. Champandard](https://arxiv.org/pdf/1603.01768v1.pdf) <br />
+The folder **_Doodles_**  contains an implementation of the paper [*_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork_* by Alex J. Champandard](https://arxiv.org/pdf/1603.01768v1.pdf) <br />
 A folder containing test outputs is included inside it. <br />
 
-The folder **_Artistic rendering of videos_** is an attempt to implement the paper *[_Artistic style transfer for videos_* by Manuel Ruder, Alexey Dosovitskiy, Thomas Brox](https://arxiv.org/pdf/1604.08610v2.pdf) <br />
+The folder **_Artistic rendering of videos_** is an attempt to implement the paper [*_Artistic style transfer for videos_* by Manuel Ruder, Alexey Dosovitskiy, Thomas Brox](https://arxiv.org/pdf/1604.08610v2.pdf) <br />
 A folder containing a test case  is included inside it. <br />
 
 
