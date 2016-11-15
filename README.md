@@ -38,7 +38,7 @@ A folder containing a test case  is included inside it. <br />
 
 ## Explanation of the approaches
 ### Naive approach :
-Using bilinear model to separate the style and content of image and then applying the style of one image on the the content of another image (by the principle of extrapolation).
+Using bilinear model to separate the style and content of image and then applying the style of one image on the content of another image (by the principle of extrapolation).
 ### Using CNN :
 We have used the VGG-19 model to achieve separation of style and content of image
 ### Neural Doodle
